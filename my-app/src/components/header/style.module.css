@@ -1,0 +1,22 @@
+.container {
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.menu {
+    color: white;
+    font-family: 'Playfair', serif;
+    font-size: 25px;
+    text-decoration: none;
+}
